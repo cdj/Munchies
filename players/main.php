@@ -1,0 +1,1 @@
+<div align="center"><img src="media/graphics/6pack.gif" alt="Stuffed 6-pack" width="425" height="464" /></div>

@@ -1,0 +1,51 @@
+#card {
+	width: 5in;
+	border: 2pt dashed;
+	float: left;
+	padding: 10pt;
+	overflow: visible;
+	position: static;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#card img {
+	clear: right;
+	float: right;
+	border: 2pt solid;
+	position: relative;
+	margin-bottom: 5pt;
+	margin-left: 10pt;
+}
+#card p {
+	margin-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-indent: 6px;
+}
+#card body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+#card ul {
+	list-style-type: none;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-indent: -10px;
+}
+#card li {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#card h1 {
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+#card h2 {
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}

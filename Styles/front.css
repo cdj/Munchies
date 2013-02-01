@@ -1,0 +1,109 @@
+#content {
+	width: 630px;
+	clear: both;
+	position: relative;
+	margin-top: 20px;
+}
+body {
+	background-color: #000066;
+}
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+
+#logo {
+	position: static;
+	clear: left;
+	height: 471px;
+	width: 340px;
+	float: left;
+}
+#cookie {
+	position: absolute;
+	left: 128px;
+	top: 181px;
+}
+#cheese {
+	position: absolute;
+	left: 263px;
+	top: 311px;
+}
+#chinese {
+	position: absolute;
+	left: 132px;
+	top: 243px;
+}
+#shirt {
+	position: absolute;
+	left: 31px;
+	top: 271px;
+}
+#butter {
+	position: absolute;
+	left: 194px;
+	top: 332px;
+}
+#book {
+	position: absolute;
+	left: 223px;
+	top: 391px;
+}
+#jar {
+	position: absolute;
+	left: 129px;
+	top: 316px;
+}
+#beer {
+	position: absolute;
+	left: 251px;
+	top: 182px;
+}
+.desc {
+	width: 250px;
+	margin-top: 15px;
+	margin-left: 15px;
+	float: right;
+	text-align: left;
+}
+.desc img {
+	float: left;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+}
+#note {
+	position: absolute;
+	top: 330px;
+	right: 25px;
+	overflow: hidden;
+	color: #000000;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	width: 128px;
+	height: 133px;
+	text-align: center;
+	z-index: 50;
+	font-size: 12px;
+}
+#right {
+	position: static;
+	height: 471px;
+	width: 290px;
+	clear: right;
+	float: right;
+}
+#noteimg {
+	position: absolute;
+	left: 457px;
+	top: 321px;
+}
+#note div {
+	font-size: 10px;
+}
+#note p {
+	margin-top: 8px;
+	margin-bottom: 4px;
+}
